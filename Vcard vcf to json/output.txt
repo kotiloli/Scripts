@@ -1,0 +1,666 @@
+[
+ {
+  "fullname": "Fatih Kurt",
+  "phone": "+905543993581"
+ },
+ {
+  "fullname": "*Marmara ogr dahili",
+  "phone": "215"
+ },
+ {
+  "fullname": "*Okul Kodu",
+  "phone": "550454"
+ },
+ {
+  "fullname": "#Ak musteri no",
+  "phone": "0015764191"
+ },
+ {
+  "fullname": "#akbank",
+  "phone": "0280725"
+ },
+ {
+  "fullname": "#is musteri no",
+  "phone": "188729849"
+ },
+ {
+  "fullname": "#isbank",
+  "phone": "10254047770"
+ },
+ {
+  "fullname": "#İş Bank rıhtım",
+  "phone": "02164182101"
+ },
+ {
+  "fullname": "#kampuskart",
+  "phone": "6431"
+ },
+ {
+  "fullname": "#kredi no",
+  "phone": "20092782103"
+ },
+ {
+  "fullname": "#mar. Ögr. İşleri",
+  "phone": "02163480292"
+ },
+ {
+  "fullname": "#Posta Kadıköy",
+  "phone": "34746"
+ },
+ {
+  "fullname": "#Posta Samsun",
+  "phone": "55400"
+ },
+ {
+  "fullname": "Annem",
+  "phone": "+905434235519"
+ },
+ {
+  "fullname": "Ablam",
+  "phone": "+905432423419"
+ },
+ {
+  "fullname": "Ahmet Bozkoyun",
+  "phone": "+905434474303"
+ },
+ {
+  "fullname": "Akif Okul",
+  "phone": "05384747551"
+ },
+ {
+  "fullname": "Alewaddin",
+  "phone": "+905425714268"
+ },
+ {
+  "fullname": "Amcam",
+  "phone": "05426046745"
+ },
+ {
+  "fullname": "Amcam Rize",
+  "phone": "04642143445"
+ },
+ {
+  "fullname": "Ayfer Halam",
+  "phone": "05543345021"
+ },
+ {
+  "fullname": "AynurHalam iş",
+  "phone": "+902124670752"
+ },
+ {
+  "fullname": "AynurHalamEv",
+  "phone": "02124871622"
+ },
+ {
+  "fullname": "Aysel halam ev",
+  "phone": "02125774886"
+ },
+ {
+  "fullname": "Ayşe Abla",
+  "phone": "05443048374"
+ },
+ {
+  "fullname": "Ayşe Abla ev",
+  "phone": "03625438847"
+ },
+ {
+  "fullname": "Babam",
+  "phone": "05344166401"
+ },
+ {
+  "fullname": "Bilal Murtez",
+  "phone": "05323953056"
+ },
+ {
+  "fullname": "Bünyamin Gül",
+  "phone": "+905464700162"
+ },
+ {
+  "fullname": "Celil Ufuk",
+  "phone": "05063162611"
+ },
+ {
+  "fullname": "Cumali",
+  "phone": "+905466338787"
+ },
+ {
+  "fullname": "Daşo",
+  "phone": "05433367953"
+ },
+ {
+  "fullname": "Dursun Şimşek",
+  "phone": "05352241143"
+ },
+ {
+  "fullname": "Dursunkız Of",
+  "phone": "04627842293"
+ },
+ {
+  "fullname": "Dursunkız teyzem",
+  "phone": "05425176256"
+ },
+ {
+  "fullname": "Ege",
+  "phone": "+905309403079"
+ },
+ {
+  "fullname": "Emine Teyzem",
+  "phone": "+905372615568"
+ },
+ {
+  "fullname": "Emre",
+  "phone": "+905063135491"
+ },
+ {
+  "fullname": "Enis",
+  "phone": "+905455420017"
+ },
+ {
+  "fullname": "Eray Arabul",
+  "phone": "+905308810007"
+ },
+ {
+  "fullname": "Ercan Enis",
+  "phone": "05427379813"
+ },
+ {
+  "fullname": "Ercan Enistev",
+  "phone": "02125774886"
+ },
+ {
+  "fullname": "Erman erdönmez",
+  "phone": "05344201089"
+ },
+ {
+  "fullname": "Erman@",
+  "phone": "05542336059"
+ },
+ {
+  "fullname": "Ev",
+  "phone": "03625445229"
+ },
+ {
+  "fullname": "Ev Akif Eren.",
+  "phone": "+905322509722"
+ },
+ {
+  "fullname": "Fatih Asiroglu",
+  "phone": "+905054042609"
+ },
+ {
+  "fullname": "Fatih çetinh",
+  "phone": "05059673724"
+ },
+ {
+  "fullname": "*Hesap Yasin",
+  "phone": "1757560786235001"
+ },
+ {
+  "fullname": "Huzeyfe Ulusoy",
+  "phone": "+905547681625"
+ },
+ {
+  "fullname": "Ihsan kaya",
+  "phone": "05324219259"
+ },
+ {
+  "fullname": "Irfan Eniste",
+  "phone": "+905058478282"
+ },
+ {
+  "fullname": "İdris yurt",
+  "phone": "+905077506472"
+ },
+ {
+  "fullname": "İlyas Okul",
+  "phone": "05354850757"
+ },
+ {
+  "fullname": "İrfan Enis",
+  "phone": "+905442446795"
+ },
+ {
+  "fullname": "İsmail kaya",
+  "phone": "05357024627"
+ },
+ {
+  "fullname": "Kamil cakir",
+  "phone": "05449739690"
+ },
+ {
+  "fullname": "Kemal JORDAN",
+  "phone": "+905453843245"
+ },
+ {
+  "fullname": "Mehmet Baran",
+  "phone": "05322438549"
+ },
+ {
+  "fullname": "Mehmet Caglar",
+  "phone": "05424887443"
+ },
+ {
+  "fullname": "Mesut Zorca",
+  "phone": "05437278708"
+ },
+ {
+  "fullname": "Miktatcan",
+  "phone": "05422503089"
+ },
+ {
+  "fullname": "Mucahit",
+  "phone": "05065201797"
+ },
+ {
+  "fullname": "Oyanki Ev",
+  "phone": "+903625444888"
+ },
+ {
+  "fullname": "Özmen",
+  "phone": "+905339306262"
+ },
+ {
+  "fullname": "Pizza Little Ceasar",
+  "phone": "4445244"
+ },
+ {
+  "fullname": "Polat Sdk Knn",
+  "phone": "05427895772"
+ },
+ {
+  "fullname": "Serkan",
+  "phone": "+905433988944"
+ },
+ {
+  "fullname": "Sabri daşo",
+  "phone": "+905543972419"
+ },
+ {
+  "fullname": "Sadrettin",
+  "phone": "+905068337463"
+ },
+ {
+  "fullname": "Samet baskurt",
+  "phone": "05547877210"
+ },
+ {
+  "fullname": "Serhat Okul",
+  "phone": "+905358724473"
+ },
+ {
+  "fullname": "Yasingeren",
+  "phone": "05556388965"
+ },
+ {
+  "fullname": "Ugur Okul Alewattin",
+  "phone": "+905545514789"
+ },
+ {
+  "fullname": "Bunyamin Gul",
+  "phone": "+905546479461"
+ },
+ {
+  "fullname": "Neco Amca",
+  "phone": "05427814076"
+ },
+ {
+  "fullname": "Şölen Kebab",
+  "phone": "02165059775"
+ },
+ {
+  "fullname": "Bilge Adam İskur",
+  "phone": "+902123180470"
+ },
+ {
+  "fullname": "Emlakci",
+  "phone": "+905444222222"
+ },
+ {
+  "fullname": "Hakan Aslim",
+  "phone": "+905335929256"
+ },
+ {
+  "fullname": "Vaillant Sofor Nurettin",
+  "phone": "+905373894494"
+ },
+ {
+  "fullname": "Vaillant Sofor Bulent",
+  "phone": "05373289713"
+ },
+ {
+  "fullname": "İntellica",
+  "phone": "+905428461809"
+ },
+ {
+  "fullname": "AynurHalam",
+  "phone": "+905322621567"
+ },
+ {
+  "fullname": "Osman Katip",
+  "phone": "+905549634190"
+ },
+ {
+  "fullname": "#akbank",
+  "phone": "0280725"
+ },
+ {
+  "fullname": "#Ak musteri no",
+  "phone": "0015764191"
+ },
+ {
+  "fullname": "#isbank",
+  "phone": "10254047770"
+ },
+ {
+  "fullname": "#is musteri no",
+  "phone": "188729849"
+ },
+ {
+  "fullname": "*Hesap Yasin",
+  "phone": "1757560786235001"
+ },
+ {
+  "fullname": "*Okul Kodu",
+  "phone": "550454"
+ },
+ {
+  "fullname": "*Marmara ogr dah",
+  "phone": "215"
+ },
+ {
+  "fullname": "Huzeyfe Ulusoy",
+  "phone": "+905547681625"
+ },
+ {
+  "fullname": "Fatih Kurt",
+  "phone": "+905543993581"
+ },
+ {
+  "fullname": "Irfan Eniste",
+  "phone": "+905058478282"
+ },
+ {
+  "fullname": "Ihsan kaya",
+  "phone": "05324219259"
+ },
+ {
+  "fullname": "İdris y",
+  "phone": "+905077506472"
+ },
+ {
+  "fullname": "Ercan Enistev",
+  "phone": "02125774886"
+ },
+ {
+  "fullname": "Vaillant Izzet",
+  "phone": "+905355942444"
+ },
+ {
+  "fullname": "irfan Eniste",
+  "phone": "+905535414853"
+ },
+ {
+  "fullname": "Ev",
+  "phone": "03625445229"
+ },
+ {
+  "fullname": "Ev Akif Eren.",
+  "phone": "+905322509722"
+ },
+ {
+  "fullname": "Hakan Cetin",
+  "phone": "+905069494876"
+ },
+ {
+  "fullname": "Fatih Asiroglu",
+  "phone": "+905054042609"
+ },
+ {
+  "fullname": "Fatih ç",
+  "phone": "05059673724"
+ },
+ {
+  "fullname": "Moda Ferhat",
+  "phone": "+905369622399"
+ },
+ {
+  "fullname": "Ege",
+  "phone": "+905309403079"
+ },
+ {
+  "fullname": "Wissen",
+  "phone": "+905303018696"
+ },
+ {
+  "fullname": "Emine Teyzem",
+  "phone": "+905372615568"
+ },
+ {
+  "fullname": "Emre",
+  "phone": "+905063135491"
+ },
+ {
+  "fullname": "Adnan Sahin",
+  "phone": "+905424410410"
+ },
+ {
+  "fullname": "Eray Arabul",
+  "phone": "+905308810007"
+ },
+ {
+  "fullname": "Ercan Enis",
+  "phone": "05427379813"
+ },
+ {
+  "fullname": "Cumali",
+  "phone": "+905466338787"
+ },
+ {
+  "fullname": "Ablam",
+  "phone": "+905432423412"
+ },
+ {
+  "fullname": "Celil Ufuk",
+  "phone": "05063162611"
+ },
+ {
+  "fullname": "Bünyamin Gül",
+  "phone": "+905464700162"
+ },
+ {
+  "fullname": "Aynur Halam",
+  "phone": "+905427400978"
+ },
+ {
+  "fullname": "Halil",
+  "phone": "+905416014925"
+ },
+ {
+  "fullname": "Daşo",
+  "phone": "05433367953"
+ },
+ {
+  "fullname": "Ege Sahan",
+  "phone": "+905535454225"
+ },
+ {
+  "fullname": "Ayşe Ab",
+  "phone": "05443048374"
+ },
+ {
+  "fullname": "Aysel halam ev",
+  "phone": "02125774886"
+ },
+ {
+  "fullname": "AynurHalamEv",
+  "phone": "02124871622"
+ },
+ {
+  "fullname": "AynurHalam iş",
+  "phone": "+902124670752"
+ },
+ {
+  "fullname": "Bunyamin Gul",
+  "phone": "+905546479461"
+ },
+ {
+  "fullname": "Bilal Murtez",
+  "phone": "05323953056"
+ },
+ {
+  "fullname": "Babam",
+  "phone": "05344166401"
+ },
+ {
+  "fullname": "Ayşe Ab",
+  "phone": "03625438847"
+ },
+ {
+  "fullname": "Alewaddin",
+  "phone": "+905425714268"
+ },
+ {
+  "fullname": "Amcam",
+  "phone": "05426046745"
+ },
+ {
+  "fullname": "Yasin Kutlu",
+  "phone": "05330927526"
+ },
+ {
+  "fullname": "Akif Okul",
+  "phone": "05384747551"
+ },
+ {
+  "fullname": "Ayfer Halam",
+  "phone": "05543345021"
+ },
+ {
+  "fullname": "AynurHalam",
+  "phone": "+905322621567"
+ },
+ {
+  "fullname": "Amcam Rize",
+  "phone": "04642143445"
+ },
+ {
+  "fullname": "Annem",
+  "phone": "+905434235519"
+ },
+ {
+  "fullname": "#kredi no",
+  "phone": "20092782103"
+ },
+ {
+  "fullname": "#mar. Ögr. İ",
+  "phone": "02163480292"
+ },
+ {
+  "fullname": "#İş Ban",
+  "phone": "02164182101"
+ },
+ {
+  "fullname": "#kampuskart",
+  "phone": "6431"
+ },
+ {
+  "fullname": "Amcam",
+  "phone": "+905423955553"
+ },
+ {
+  "fullname": "Ahmet Bozkoyun",
+  "phone": "+905434474303"
+ },
+ {
+  "fullname": "#Posta Kadı",
+  "phone": "34746"
+ },
+ {
+  "fullname": "#Posta Samsun",
+  "phone": "55400"
+ },
+ {
+  "fullname": "Miktatcan",
+  "phone": "05422503089"
+ },
+ {
+  "fullname": "Mucahit",
+  "phone": "05065201797"
+ },
+ {
+  "fullname": "Oyanki Ev",
+  "phone": "+903625444888"
+ },
+ {
+  "fullname": "Pizza Little Cea",
+  "phone": "4445244"
+ },
+ {
+  "fullname": "Özmen",
+  "phone": "+905339306262"
+ },
+ {
+  "fullname": "Sabri daş",
+  "phone": "+905543972419"
+ },
+ {
+  "fullname": "Polat Sdk Knn",
+  "phone": "05427895772"
+ },
+ {
+  "fullname": "Samet baskurt",
+  "phone": "05547877210"
+ },
+ {
+  "fullname": "Sadrettin",
+  "phone": "+905068337463"
+ },
+ {
+  "fullname": "Serhat Okul",
+  "phone": "+905358724473"
+ },
+ {
+  "fullname": "Serkan",
+  "phone": "+905433988944"
+ },
+ {
+  "fullname": "Yasingeren",
+  "phone": "05556388965"
+ },
+ {
+  "fullname": "Serkan Das",
+  "phone": "+905459307097"
+ },
+ {
+  "fullname": "Kamil cakir",
+  "phone": "05449739690"
+ },
+ {
+  "fullname": "Kemal JORDAN",
+  "phone": "+905453843245"
+ },
+ {
+  "fullname": "Mehmet Baran",
+  "phone": "05322438549"
+ },
+ {
+  "fullname": "Mesut Zorca",
+  "phone": "05437278708"
+ },
+ {
+  "fullname": "Mehmet Caglar",
+  "phone": "05424887443"
+ },
+ {
+  "fullname": "İlyas O",
+  "phone": "05354850757"
+ },
+ {
+  "fullname": "İsmail",
+  "phone": "05357024627"
+ },
+ {
+  "fullname": "İrfan E",
+  "phone": "+905442446795"
+ }
+]
